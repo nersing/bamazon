@@ -25,7 +25,11 @@ When you run the Javascript file in your terminal, the list of ten products to p
 
 
 Based on the users answer, if they typed Y, then they will be prompted with the next question of which item they would like to order. They will select an item by typing in the item's id number.
-PICTURE
+
+
+<img width="509" alt="enter id number a" src="https://user-images.githubusercontent.com/26397187/31866709-47390446-b749-11e7-9a90-b28cf0dce678.png">
+
+
    
 Then, the user will be prompted with the question of what is the desired quantity for the item they selected. Again, they will type in a number of how many they want to buy.
 PICTURE
