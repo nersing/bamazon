@@ -48,7 +48,7 @@ If the quantity for the item they selected is in stock, they will receive the me
 Also, the MySQL database updates once the order is processed. The database will now reflect that item's stock_quantity since the user bought items. So, the database will subtract the users quantity from the items stock_quantity and then provide a new total stock_quantity.
 
 
-<img width="510" alt="db changed a" src="https://user-images.githubusercontent.com/26397187/31866756-f90b1434-b749-11e7-94ef-48d0a3d2d55d.png">
+<img width="510" alt="db changed a" src="https://user-images.githubusercontent.com/26397187/31866809-b88b279a-b74a-11e7-9da9-c7542e4e612b.png">
 
 
 
