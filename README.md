@@ -18,7 +18,11 @@ This is a picture of the MySQL database I created for this app. You will see the
 ## Placing an Order
 
 When you run the Javascript file in your terminal, the list of ten products to purchase will be displayed in a table with the prompt "Would you like to shop at Bamazon" and the user types Y for yes or N for no.
-PICTURE
+
+
+<img width="529" alt="prompt 1 a" src="https://user-images.githubusercontent.com/26397187/31866701-12825702-b749-11e7-9b80-fe36efdc2a98.png">
+
+
 
 Based on the users answer, if they typed Y, then they will be prompted with the next question of which item they would like to order. They will select an item by typing in the item's id number.
 PICTURE
