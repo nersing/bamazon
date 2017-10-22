@@ -11,6 +11,9 @@ This is a picture of the MySQL database I created for this app. You will see the
 
 
 
+<img width="542" alt="start product list db" src="https://user-images.githubusercontent.com/26397187/31866692-d8427f18-b748-11e7-9b93-2b24ba5bc785.png">
+
+
 
 ## Placing an Order
 
