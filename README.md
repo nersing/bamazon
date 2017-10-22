@@ -39,7 +39,11 @@ Then, the user will be prompted with the question of what is the desired quantit
 
 
 If the quantity for the item they selected is in stock, they will receive the message that their item is in stock, how much their total cost is, and a message thanking them for shopping at Bamazon.
-PICTURE
+
+
+<img width="516" alt="total a" src="https://user-images.githubusercontent.com/26397187/31866726-a0b40282-b749-11e7-84aa-3b3a674fcef2.png">
+
+
 
 Also, the MySQL database updates once the order is processed. The database will now reflect that item's stock_quantity since the user bought items. So, the database will subtract the users quantity from the items stock_quantity and then provide a new total stock_quantity
 PICTURE
