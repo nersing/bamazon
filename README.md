@@ -30,9 +30,13 @@ Based on the users answer, if they typed Y, then they will be prompted with the 
 <img width="509" alt="enter id number a" src="https://user-images.githubusercontent.com/26397187/31866709-47390446-b749-11e7-9a90-b28cf0dce678.png">
 
 
-   
+
 Then, the user will be prompted with the question of what is the desired quantity for the item they selected. Again, they will type in a number of how many they want to buy.
-PICTURE
+
+
+<img width="499" alt="quantity enter a" src="https://user-images.githubusercontent.com/26397187/31866717-7973eb42-b749-11e7-891c-69aaba5fcb43.png">
+
+
 
 If the quantity for the item they selected is in stock, they will receive the message that their item is in stock, how much their total cost is, and a message thanking them for shopping at Bamazon.
 PICTURE
