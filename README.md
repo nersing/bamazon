@@ -16,7 +16,7 @@ This is a picture of the MySQL database I created for this app. You will see the
 
 ## Placing an Order
 
-When you run the Javascript file in your terminal, the list of ten products to purchase will be displayed in a table with the prompt "Would you like to shop at Bamazon" and the user types Y for yes or N for no.
+#### When you run the Javascript file in your terminal, the list of ten products to purchase will be displayed in a table with the prompt "Would you like to shop at Bamazon" and the user types Y for yes or N for no.
 
 
 <img width="529" alt="prompt 1 a" src="https://user-images.githubusercontent.com/26397187/31866701-12825702-b749-11e7-9b80-fe36efdc2a98.png">
@@ -59,11 +59,9 @@ However, if the quantity the user inputted exceeds the amount in stock, they wil
 <img width="466" alt="db not altered" src="https://user-images.githubusercontent.com/26397187/31866767-22b64240-b74a-11e7-85c3-c1c08e0c2b0d.png">
 
 
-Here is another example:
+Extra Example:
 
 <img width="986" alt="extra example" src="https://user-images.githubusercontent.com/26397187/31866836-1d492614-b74b-11e7-9529-91034f9843c4.png">
-
-
 
 
 
