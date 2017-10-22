@@ -61,6 +61,11 @@ However, if the quantity the user inputted exceeds the amount in stock, they wil
 <img width="466" alt="db not altered" src="https://user-images.githubusercontent.com/26397187/31866767-22b64240-b74a-11e7-85c3-c1c08e0c2b0d.png">
 
 
+Here is another example:
+
+<img width="986" alt="extra example" src="https://user-images.githubusercontent.com/26397187/31866773-35b8fe8c-b74a-11e7-929e-0fa9e746a96b.png">
+
+
 
 
 
