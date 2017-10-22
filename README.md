@@ -5,7 +5,11 @@
 This app using MySQL, JS, and Node in order for customers to purchase items from the Bamazon online store. Users will use their terminal in order to place orders and follow various prompts in order to complete their shopping expereince.
 
 This is a picture of the MySQL database I created for this app. You will see the database name, table, and items to be placed inside the table.
+
+
 <img width="697" alt="start db" src="https://user-images.githubusercontent.com/26397187/31866673-a36853bc-b748-11e7-9b07-62847c1e5c61.png">
+
+
 
 
 ## Placing an Order
