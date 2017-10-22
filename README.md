@@ -2,9 +2,9 @@
 
 ## Summary
 
-This app using MySQL, JS, and Node in order for customers to purchase items from the Bamazon online store. Users will use their terminal in order to place orders and follow various prompts in order to complete their shopping expereince.
+This app uses MySQL, JS, and Node in order for customers to purchase items from the Bamazon online store. Users will use their terminal in order to place orders and follow various prompts to complete their shopping experience.
 
-This is a picture of the MySQL database I created for this app. You will see the database name, table, and items to be placed inside the table.
+This is a picture of the MySQL database I created for this app. You will see the database name, table, and items that were placed inside the table.
 
 
 <img width="697" alt="start db" src="https://user-images.githubusercontent.com/26397187/31866673-a36853bc-b748-11e7-9b07-62847c1e5c61.png">
@@ -16,21 +16,21 @@ This is a picture of the MySQL database I created for this app. You will see the
 
 ## Placing an Order
 
-**When you run the Javascript file in your terminal, the list of ten products to purchase will be displayed in a table with the prompt "Would you like to shop at Bamazon" and the user types Y for yes or N for no.**
+When you run the Javascript file in your terminal, the list of ten products to purchase will be displayed in a table with the prompt "Would you like to shop at Bamazon". The user will then type Y for yes or N for no.
 
 
 <img width="529" alt="prompt 1 a" src="https://user-images.githubusercontent.com/26397187/31866701-12825702-b749-11e7-9b80-fe36efdc2a98.png">
 
 
 
-Based on the users answer, if they typed Y, then they will be prompted with the next question of which item they would like to order. They will select an item by typing in the item's id number.
+Based on the users answer, if they typed Y, then they will be prompted with the next question, if they said no, then the file will stop running. The next question will then ask the user which item they would like to order. They will select an item by typing in the item's id number.
 
 
 <img width="509" alt="enter id number a" src="https://user-images.githubusercontent.com/26397187/31866709-47390446-b749-11e7-9a90-b28cf0dce678.png">
 
 
 
-Then, the user will be prompted with the question of what is the desired quantity for the item they selected. Again, they will type in a number of how many they want to buy.
+Then, the user will be prompted with the question of their desired quantity for the item they selected. Again, they will type in a number of how many they want to buy.
 
 
 <img width="499" alt="quantity enter a" src="https://user-images.githubusercontent.com/26397187/31866717-7973eb42-b749-11e7-891c-69aaba5fcb43.png">
@@ -44,7 +44,7 @@ If the quantity for the item they selected is in stock, they will receive the me
 
 
 
-Also, the MySQL database updates once the order is processed. The database will now reflect that item's stock_quantity since the user bought items. So, the database will subtract the users quantity from the items stock_quantity and then provide a new total stock_quantity.
+Also, the MySQL database will update once the order is processed. The database will now reflect that item's stock_quantity since the user bought that item. The database will then subtract the users quantity from the items stock_quantity and then will provide a new total stock_quantity.
 
 
 <img width="510" alt="db changed a" src="https://user-images.githubusercontent.com/26397187/31866809-b88b279a-b74a-11e7-9da9-c7542e4e612b.png">
