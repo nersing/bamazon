@@ -10,7 +10,6 @@ This is a picture of the MySQL database I created for this app. You will see the
 <img width="697" alt="start db" src="https://user-images.githubusercontent.com/26397187/31866673-a36853bc-b748-11e7-9b07-62847c1e5c61.png">
 
 
-
 <img width="542" alt="start product list db" src="https://user-images.githubusercontent.com/26397187/31866692-d8427f18-b748-11e7-9b93-2b24ba5bc785.png">
 
 
@@ -57,13 +56,12 @@ However, if the quantity the user inputted exceeds the amount in stock, they wil
 
 <img width="508" alt="no enough b" src="https://user-images.githubusercontent.com/26397187/31866745-d6696d7c-b749-11e7-88d5-01e0883ad67b.png">
 
-
 <img width="466" alt="db not altered" src="https://user-images.githubusercontent.com/26397187/31866767-22b64240-b74a-11e7-85c3-c1c08e0c2b0d.png">
 
 
 Here is another example:
 
-<img width="986" alt="extra example" src="https://user-images.githubusercontent.com/26397187/31866773-35b8fe8c-b74a-11e7-929e-0fa9e746a96b.png">
+<img width="986" alt="extra example" src="https://user-images.githubusercontent.com/26397187/31866836-1d492614-b74b-11e7-9529-91034f9843c4.png">
 
 
 
