@@ -49,7 +49,10 @@ Also, the MySQL database updates once the order is processed. The database will 
 PICTURE
 
 However, if the quantity the user inputted exceeds the amount in stock, they will recieve the message that Bamazon is currently out of that item and to check back later. Also, it will then prompt the user to enter in a new item id for purchase. The database will not be altered because the order was not complete and the stock_quantity did not decrease.
-PICTURES
+
+
+<img width="508" alt="no enough b" src="https://user-images.githubusercontent.com/26397187/31866745-d6696d7c-b749-11e7-88d5-01e0883ad67b.png">
+
 
 
 
