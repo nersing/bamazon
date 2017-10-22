@@ -58,4 +58,9 @@ However, if the quantity the user inputted exceeds the amount in stock, they wil
 <img width="508" alt="no enough b" src="https://user-images.githubusercontent.com/26397187/31866745-d6696d7c-b749-11e7-88d5-01e0883ad67b.png">
 
 
+<img width="466" alt="db not altered" src="https://user-images.githubusercontent.com/26397187/31866767-22b64240-b74a-11e7-85c3-c1c08e0c2b0d.png">
+
+
+
+
 
